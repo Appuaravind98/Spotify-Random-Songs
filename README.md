@@ -10,3 +10,6 @@ How to run-->
 ->Open Terminal in Vs Code Type "export SPOTIFY_AUTH_TOKEN=YourAuthTokenGoesHere"
 ->After that execute the command 'python3 run.py"
 You'll be Shown 20 Tracks that was added to your Library.For me The songs was added to Liked Songs.
+x-special/nautilus-clipboard
+copy
+file:///home/aravind/Desktop/Screenshot%20from%202020-09-28%2019-30-07.png
