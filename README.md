@@ -1,5 +1,5 @@
 # Spotify-Random-Songs
-This a simple Python program to add 30 Random songs to Your Spotify Library.
+This a simple Python program to add 20 Random songs to Your Spotify Library.
 How to run-->
 
 ->Clone the project 
